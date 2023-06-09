@@ -1,4 +1,4 @@
-# fire_notification
+# firebase_notifications
 
 A new Flutter project.
 
